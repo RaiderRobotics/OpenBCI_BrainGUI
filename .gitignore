@@ -16,3 +16,10 @@ hs_err_pid*
 *.ipr
 *.iws
 .idea/
+
+#data
+src/data/1
+src/data/2
+src/data/3
+src/data/4
+src/data/movie.mov
